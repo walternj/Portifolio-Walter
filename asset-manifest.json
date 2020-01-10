@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portifolio-walternj/static/css/main.b634272e.chunk.css",
+    "main.js": "/portifolio-walternj/static/js/main.2c7c8f14.chunk.js",
+    "main.js.map": "/portifolio-walternj/static/js/main.2c7c8f14.chunk.js.map",
+    "runtime-main.js": "/portifolio-walternj/static/js/runtime-main.d8c9af69.js",
+    "runtime-main.js.map": "/portifolio-walternj/static/js/runtime-main.d8c9af69.js.map",
+    "static/css/2.216ee72c.chunk.css": "/portifolio-walternj/static/css/2.216ee72c.chunk.css",
+    "static/js/2.b6c189eb.chunk.js": "/portifolio-walternj/static/js/2.b6c189eb.chunk.js",
+    "static/js/2.b6c189eb.chunk.js.map": "/portifolio-walternj/static/js/2.b6c189eb.chunk.js.map",
+    "index.html": "/portifolio-walternj/index.html",
+    "precache-manifest.909fb8c60b8fcb3549ab3ba74fa51e6a.js": "/portifolio-walternj/precache-manifest.909fb8c60b8fcb3549ab3ba74fa51e6a.js",
+    "service-worker.js": "/portifolio-walternj/service-worker.js",
+    "static/css/2.216ee72c.chunk.css.map": "/portifolio-walternj/static/css/2.216ee72c.chunk.css.map",
+    "static/css/main.b634272e.chunk.css.map": "/portifolio-walternj/static/css/main.b634272e.chunk.css.map",
+    "static/js/2.b6c189eb.chunk.js.LICENSE": "/portifolio-walternj/static/js/2.b6c189eb.chunk.js.LICENSE",
+    "static/media/index.css": "/portifolio-walternj/static/media/Raleway-Regular.9942588a.ttf",
+    "static/media/header.css": "/portifolio-walternj/static/media/WIN_20180320_09_40_06_Pro.a68755ff.jpg",
+    "static/media/font-awesome.min.css": "/portifolio-walternj/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/home.css": "/portifolio-walternj/static/media/topmovies.8235de7f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8c9af69.js",
+    "static/css/2.216ee72c.chunk.css",
+    "static/js/2.b6c189eb.chunk.js",
+    "static/css/main.b634272e.chunk.css",
+    "static/js/main.2c7c8f14.chunk.js"
+  ]
+}
