@@ -1,0 +1,130 @@
+.footerContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  justify-self: flex-end;
+  justify-content: space-between;
+  align-items: center;
+  height: 40vh;
+  min-height: fit-content;
+  background-color: #3a3535;
+  color: #fff;
+}
+
+#horizontal__footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  height: 100%;
+  width: 100%;
+  min-height: fit-content;
+  overflow: hidden;
+}
+
+#plan__site {
+  display: flex;
+  justify-content: flex-start;
+  text-align: center;
+  flex-direction: column;
+  width: fit-content; 
+  margin-top: 75px;
+  font-family: OpenSans-Light, 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  letter-spacing: 2px;
+  line-height: normal;
+}
+#plan__site p {
+  font-size: 15px;
+  letter-spacing: 3px;
+}
+#plan__site ul {
+  display: flex;justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+  list-style: none;
+  text-align: left;
+  font-size: 14px;
+  padding: 0;
+  margin-top: 15px;
+}
+#plan__site li {
+  display: flex;
+  align-items: center;
+  margin: 5px;
+  letter-spacing: 3px;
+  white-space: pre-wrap;
+}
+a {
+  color: #fff;
+}
+a:hover {
+  color: #fff ;
+  text-decoration: none;
+}
+
+#contacts {
+  display: flex;
+  justify-content: flex-start;
+  text-align: center;
+  flex-direction: column;
+  width: fit-content; 
+  margin-top: 75px;
+  font-family: OpenSans-Light, 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  letter-spacing: 2px;
+  line-height: normal;
+}
+#contacts p {
+  font-size: 15px;
+  letter-spacing: 3px;
+}
+#contacts ul {
+  display: flex;justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+  list-style: none;
+  text-align: left;
+  font-size: 14px;
+  padding: 0;
+  margin-top: 15px;
+}
+#contacts li {
+  display: flex;
+  align-items: center;
+  margin: 5px;
+  letter-spacing: 3px;
+  white-space: pre-wrap;
+}
+
+#about__me {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: fit-content;
+  width: 40vw;
+  background-color: #f4f4f4;
+  color: #3a3535;
+  font-size: 0.8rem;
+  padding: 10px;
+  transform: skew(-8deg, 0deg);
+
+  } 
+  #about__me p {
+    display: flex;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+    line-height: 16px;
+    font-size: 16px;
+    margin-bottom: 15px;
+    transform: skew(  8deg, 0deg);
+    width: 90%;
+  }
+
+#foot {
+  display: flex;
+  justify-self: flex-end;
+  justify-content: center;
+  font-size: 0.6rem;
+  width: 100%;
+  padding: 1px;
+  background-color: #232020;
+}

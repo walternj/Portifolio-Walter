@@ -1,0 +1,11 @@
+.worksContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+
+i {
+  font-size: 60px;
+}
