@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e37ca5de628292c5af0b3c1ae069bb99",
+    "revision": "1a643060445ad7c8009b2c9e6129cf6f",
     "url": "/portifolio-walter/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portifolio-walter/static/css/2.6fe40e31.chunk.css"
   },
   {
-    "revision": "4c05ee35bbc28e63575a",
+    "revision": "feda3390de1c8b480851",
     "url": "/portifolio-walter/static/css/main.cce52c54.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portifolio-walter/static/js/2.b6c189eb.chunk.js.LICENSE"
   },
   {
-    "revision": "4c05ee35bbc28e63575a",
-    "url": "/portifolio-walter/static/js/main.4496c54f.chunk.js"
+    "revision": "feda3390de1c8b480851",
+    "url": "/portifolio-walter/static/js/main.200f3f1d.chunk.js"
   },
   {
     "revision": "5014bfe811dee327886c",
