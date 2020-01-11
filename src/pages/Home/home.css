@@ -200,13 +200,18 @@
   
 }
 
+.work-div a {
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
 .mobile:hover {
   transform: skew(0deg, 0deg);
   transition: 1s all ease;
 
 
 }
-
 
 .savoureux {
   background-image: url('./images/restaurant-savoureux.png');

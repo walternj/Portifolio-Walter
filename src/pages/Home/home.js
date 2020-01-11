@@ -7,7 +7,7 @@ export default function Home() {
     '/logos/react.jpg','/logos/react-native.jpg', '/logos/reduxpng.png','/logos/html5.jpg', 
     '/logos/css3.jpg', '/logos/js.jpg', '/logos/bootstrap-4.jpg', '/logos/fontawesome.jpg', 
     '/logos/node.jpg', '/logos/express-js.jpg','/logos/mongodb.jpg', '/logos/sql.jpg', 
-    '/logos/socketio.png', '/logos/git.jpg'
+    '/logos/socketio.png', '/logos/git.jpg', '/logos/vscode.png', '/logos/scss.png'
   ]
   
   return (
@@ -39,12 +39,15 @@ export default function Home() {
 				<p>Voici des exemples de mes réalisations personnelles, scolaires et professionnelles...</p>
 				<div className="works works-container">
 					<div className="work-div mobile topmovies">
+					<a href="https://github.com/walternj/MyTopMovies" target="blanc" ></a>
 					{/* 	<p>TopMovies</p> */}
 					</div>
 					<div className="work-div web savoureux">
+						<a href="https://restaurant-savoureux-frontend.herokuapp.com/" target="blanc" ></a>
 						{/* <p>Restaurant Savoureux!</p> */}
 					</div>
 					<div className="work-div mobile instagrand">
+					<a href="https://github.com/walternj" target="blanc" ></a>
 						{/* <p>Instagrand</p> */}
 					</div>
 				</div>

@@ -6,8 +6,8 @@ import './App.css';
 
 function App() {
   const buttonUpStyle = {
-    backgroundColor: 'brown',
-    marginRight: '-10px',
+    backgroundColor: 'rgba(165, 42, 42, 0.705)',
+    marginRight: '-20px',
     outline: 'none'
   }
   return (
