@@ -11,7 +11,7 @@
   color: #fff;
 }
 
-#horizontal__footer {
+#horizontal-footer {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
@@ -21,22 +21,23 @@
   overflow: hidden;
 }
 
-#plan__site {
+#plan-site {
   display: flex;
   justify-content: flex-start;
   text-align: center;
   flex-direction: column;
   width: fit-content; 
+  min-width: fit-content;
   margin-top: 75px;
   font-family: OpenSans-Light, 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   letter-spacing: 2px;
   line-height: normal;
 }
-#plan__site p {
+#plan-site p {
   font-size: 15px;
   letter-spacing: 3px;
 }
-#plan__site ul {
+#plan-site ul {
   display: flex;justify-content: flex-start;
   align-items: flex-start;
   flex-direction: column;
@@ -46,7 +47,7 @@
   padding: 0;
   margin-top: 15px;
 }
-#plan__site li {
+#plan-site li {
   display: flex;
   align-items: center;
   margin: 5px;
@@ -67,6 +68,7 @@ a:hover {
   text-align: center;
   flex-direction: column;
   width: fit-content; 
+  min-width: fit-content;
   margin-top: 75px;
   font-family: OpenSans-Light, 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   letter-spacing: 2px;
@@ -94,7 +96,7 @@ a:hover {
   white-space: pre-wrap;
 }
 
-#about__me {
+#about-me {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -108,7 +110,7 @@ a:hover {
   transform: skew(-8deg, 0deg);
 
   } 
-  #about__me p {
+  #about-me p {
     display: flex;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: left;
@@ -127,4 +129,24 @@ a:hover {
   width: 100%;
   padding: 1px;
   background-color: #232020;
+}
+
+@media (max-width: 768px) {
+  #horizontal-footer {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  #about-me {
+    transform: skew(  0deg, 0deg);
+    width: 100%;
+  }
+  #about-me p {
+    transform: skew(  0deg, 0deg);
+    font-size: 18px;
+  }
+}
+
+#plan-site, #contacts {
+  margin-left: 25vw;
+  margin-top: 20px;
 }

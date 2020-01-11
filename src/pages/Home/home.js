@@ -38,20 +38,20 @@ export default function Home() {
 				<p>Works</p>
 				<p>Voici des exemples de mes réalisations personnelles, scolaires et professionnelles...</p>
 				<div className="works works-container">
-					<div className="work-div mobile topmovies">
-					<a href="https://github.com/walternj/MyTopMovies" target="blanc" ></a>
+					<div className="work-div topmovies">
+					<a href="https://github.com/walternj/MyTopMovies" target="blanc" >Visiter</a>
 					{/* 	<p>TopMovies</p> */}
 					</div>
-					<div className="work-div web savoureux">
-						<a href="https://restaurant-savoureux-frontend.herokuapp.com/" target="blanc" ></a>
+					<div className="work-div savoureux">
+						<a href="https://restaurant-savoureux-frontend.herokuapp.com/" target="blanc" >Visiter</a>
 						{/* <p>Restaurant Savoureux!</p> */}
 					</div>
 					<div className="work-div restApi">
-					<a href="https://github.com/walternj/restaurant_savoureux_backend" target="blanc" ></a>
+					<a href="https://github.com/walternj/restaurant_savoureux_backend" target="blanc" >Visiter</a>
 						{/* <p>Instagrand</p> */}
 					</div>
 				</div>
-				<button>See More...</button>
+				<button><a href="/works" >See More...</a></button>
       </div>
 
       <div id="techs">
