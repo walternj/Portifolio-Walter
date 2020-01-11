@@ -99,6 +99,7 @@ span {
 
   .brand {
     align-self: flex-start;
+    font-size: 2.5vw;
   }
 
   .menu {
