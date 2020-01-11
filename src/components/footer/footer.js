@@ -15,7 +15,7 @@ export default function  () {
             Je développe des aplications Web et Mobile avec la stack MERN 
             (Mongodb, Express, ReactJS/React Native et Node.js) et d'autres technologies.
           </p>
-          <p>Intéressée par tout ce qui touche à mon domaine, j’effectue une veille quotidienne 
+          <p>Intéressé par tout ce qui touche à mon domaine, j’effectue une veille quotidienne 
             concernant les nouvelles technologies web et mobile, ce que me permet de m'améliorer 
             constamment.
           </p>
