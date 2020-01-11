@@ -229,14 +229,14 @@
   margin-right: 40px;
 }
 
-.instagrand {
-  background-image: url('./images/topmovies.png');
-  background-position-x: center;
+.restApi {
+  background-image: url('./images/RestApi.png');
+  background-position-x: right;
   background-size: cover;
+  background-repeat: no-repeat;
 }
-.instagrand:hover {
-  width: 210px;
-  margin-left: 40px;
+.restApi:hover {
+  width: 42vw;
 }
 
  .works button {

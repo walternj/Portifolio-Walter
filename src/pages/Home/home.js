@@ -46,8 +46,8 @@ export default function Home() {
 						<a href="https://restaurant-savoureux-frontend.herokuapp.com/" target="blanc" ></a>
 						{/* <p>Restaurant Savoureux!</p> */}
 					</div>
-					<div className="work-div mobile instagrand">
-					<a href="https://github.com/walternj" target="blanc" ></a>
+					<div className="work-div restApi">
+					<a href="https://github.com/walternj/restaurant_savoureux_backend" target="blanc" ></a>
 						{/* <p>Instagrand</p> */}
 					</div>
 				</div>
