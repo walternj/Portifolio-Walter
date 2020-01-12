@@ -53,7 +53,6 @@ export default function Home() {
 				</div>
 				<button><a href="/works" >See More...</a></button>
       </div>
-
       <div id="techs">
         <p>Technologies</p>
         <ul>

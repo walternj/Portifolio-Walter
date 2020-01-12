@@ -283,6 +283,10 @@
 
   .works-container {
     flex-direction: column;
+    height: 100vh;
+  }
+  .works {
+    height: 100vh;
   }
   .work-div {
     width: 95vw;
@@ -317,6 +321,13 @@
   .restApi:hover {
     width: 95vw;
     height: back;
+  }
+}
+
+@media (max-width: 400px) {
+  #techs img {
+    height: 100px;
+    width: 100px;
   }
 }
 
