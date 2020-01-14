@@ -31,7 +31,7 @@ export default function  () {
             une application avec un responsive design qui s'adapte à chaque résolution d'écran.
           </p>
           <p>
-            Je développe des aplications Web et Mobile avec la stack MERN 
+            Je développe des applications Web et Mobile avec la stack MERN 
             (Mongodb, Express, ReactJS/React Native et Node.js) et d'autres technologies.
           </p>
           <p>Intéressé par tout ce qui touche à mon domaine, j’effectue une veille quotidienne 
