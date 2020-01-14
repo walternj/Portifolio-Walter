@@ -38,7 +38,7 @@ export default function  () {
             concernant les nouvelles technologies web et mobile, ce que me permet de m'améliorer 
             constamment.
           </p>
-          <p>Je suis toujours à la recherche d'acquerir des nouvelles compètances dans mon domaine.</p>
+          <p>Je suis toujours à la recherche d'acquérir des nouvelles compétances dans mon domaine.</p>
         </div>
       </div>
       <p id="foot">© WalterNJ 2020 - Développeur Full-Stack #ReactJS #React Native #NodeJS </p>
