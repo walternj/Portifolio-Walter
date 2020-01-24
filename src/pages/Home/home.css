@@ -228,7 +228,7 @@
 }
 
 .topmovies {
-  background-image: url('./images/topmovies.jpg');
+  background-image: url('./images/mytopmovies.jpg');
   background-position-x: center;
   background-size: cover;
 }
@@ -296,7 +296,7 @@
   .work-div:hover {
     z-index: 3;
     justify-self: center;
-    align-items: center;
+    align-items: center;  
     height: 300vh;
     width: 95vw;
     cursor: pointer;

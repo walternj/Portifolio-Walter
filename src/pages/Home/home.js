@@ -39,7 +39,7 @@ export default function Home() {
 				<p>Voici des exemples de mes réalisations personnelles, scolaires et professionnelles...</p>
 				<div className="works works-container">
 					<div className="work-div topmovies">
-					<a href="https://github.com/walternj/MyTopMovies" target="blanc" >Visiter</a>
+					<a href="https://play.google.com/store/apps/details?id=com.mytopmovies" target="blanc" >Visiter</a>
 					{/* 	<p>TopMovies</p> */}
 					</div>
 					<div className="work-div savoureux">
