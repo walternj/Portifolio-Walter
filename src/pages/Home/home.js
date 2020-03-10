@@ -7,7 +7,7 @@ export default function Home() {
     '/logos/react.jpg','/logos/react-native.jpg', '/logos/reduxpng.png','/logos/html5.jpg', 
     '/logos/css3.jpg', '/logos/js.jpg', '/logos/bootstrap-4.jpg', '/logos/fontawesome.jpg', 
     '/logos/node.jpg', '/logos/express-js.jpg','/logos/mongodb.jpg', '/logos/sql.jpg', 
-    '/logos/socketio.png', '/logos/git.jpg', '/logos/vscode.png', '/logos/scss.png'
+    '/logos/socketio.png', '/logos/git.jpg', '/logos/vscode.png', '/logos/styled_components.png'
   ]
   
   return (
