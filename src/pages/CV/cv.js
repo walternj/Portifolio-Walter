@@ -5,7 +5,7 @@ import './cv.css'
 export default function CV() {
   return (
     <div className="cvContainer">
-      <iframe src={cv} height="100%" width="100%" />
+      <iframe title="cv" src={cv} height="100%" width="100%" allowFullScreen />
     
     </div>
   )

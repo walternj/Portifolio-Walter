@@ -3,10 +3,13 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 1250px;
+  height: fit-content;
+  min-height: 200px;
   background-color: rgb(173, 140, 57);
 }
 
-i {
-  font-size: 60px;
+iframe {
+  border: none;
+  height: 1250px;
+  align-items: flex-start;
 }
