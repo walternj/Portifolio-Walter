@@ -1,11 +1,12 @@
 import React from 'react'
 
+import cv from './WalterDev.pdf'
 import './cv.css'
 export default function CV() {
   return (
     <div className="cvContainer">
-      <i><span> 🚧</span></i>
-      <p>This page is under construction...</p>
+      <iframe src={cv} height="100%" width="100%" />
+    
     </div>
   )
 }
