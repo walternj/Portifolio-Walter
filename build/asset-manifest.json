@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portifolio-walter/static/css/main.9bc0e1cc.chunk.css",
+    "main.js": "/portifolio-walter/static/js/main.e6b0da85.chunk.js",
+    "main.js.map": "/portifolio-walter/static/js/main.e6b0da85.chunk.js.map",
+    "runtime-main.js": "/portifolio-walter/static/js/runtime-main.be7293db.js",
+    "runtime-main.js.map": "/portifolio-walter/static/js/runtime-main.be7293db.js.map",
+    "static/css/2.6fe40e31.chunk.css": "/portifolio-walter/static/css/2.6fe40e31.chunk.css",
+    "static/js/2.fe71b78a.chunk.js": "/portifolio-walter/static/js/2.fe71b78a.chunk.js",
+    "static/js/2.fe71b78a.chunk.js.map": "/portifolio-walter/static/js/2.fe71b78a.chunk.js.map",
+    "index.html": "/portifolio-walter/index.html",
+    "precache-manifest.e10be693719b58ac50c40213b2b6a52c.js": "/portifolio-walter/precache-manifest.e10be693719b58ac50c40213b2b6a52c.js",
+    "service-worker.js": "/portifolio-walter/service-worker.js",
+    "static/css/2.6fe40e31.chunk.css.map": "/portifolio-walter/static/css/2.6fe40e31.chunk.css.map",
+    "static/css/main.9bc0e1cc.chunk.css.map": "/portifolio-walter/static/css/main.9bc0e1cc.chunk.css.map",
+    "static/js/2.fe71b78a.chunk.js.LICENSE": "/portifolio-walter/static/js/2.fe71b78a.chunk.js.LICENSE",
+    "static/media/index.css": "/portifolio-walter/static/media/Raleway-Regular.9942588a.ttf",
+    "static/media/home.css": "/portifolio-walter/static/media/restaurant-savoureux.885f52fb.png",
+    "static/media/WalterDev.pdf": "/portifolio-walter/static/media/WalterDev.ef10fb86.pdf",
+    "static/media/font-awesome.min.css": "/portifolio-walter/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/header.css": "/portifolio-walter/static/media/photo.d3a5abca.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be7293db.js",
+    "static/css/2.6fe40e31.chunk.css",
+    "static/js/2.fe71b78a.chunk.js",
+    "static/css/main.9bc0e1cc.chunk.css",
+    "static/js/main.e6b0da85.chunk.js"
+  ]
+}
